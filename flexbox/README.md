@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flexbox
 
 ## Description:bulb:
@@ -66,3 +67,6 @@ Read or watch:
 
 ## Author
 * **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+=======
+## Flexbox
+>>>>>>> d7b3818afcd2921310cdc5750ebcdd9fe728076f

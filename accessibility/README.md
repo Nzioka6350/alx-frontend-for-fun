@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x07. Accessibility
 
 ## Description:bulb:
@@ -61,3 +62,6 @@ Read or watch:
 
 ## Author
 * **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha) - [twitter:speech_balloon:](https://twitter.com/Joseph_Mahiuha)
+=======
+## Accessibility
+>>>>>>> d7b3818afcd2921310cdc5750ebcdd9fe728076f

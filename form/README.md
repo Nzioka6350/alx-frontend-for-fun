@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forms
 
 ## Description:bulb:
@@ -59,3 +60,6 @@ Read or watch:
 
 ## Author
 * **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+=======
+## Forms
+>>>>>>> d7b3818afcd2921310cdc5750ebcdd9fe728076f
